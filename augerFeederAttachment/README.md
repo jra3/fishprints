@@ -22,6 +22,15 @@ about creating an auger-style feeder attachment.
 ![Augers](./Augers.png)
 *3-turn and 5-turn auger options*
 
+![Assembled Feeder](./shot.jpeg)
+*Assembled auger feeder attachment*
+
+## Video Demo
+
+[![Auger Feeder Demo](https://img.youtube.com/vi/-6nftBwDfiQ/0.jpg)](https://youtube.com/shorts/-6nftBwDfiQ?feature=share)
+
+*Click the image above to watch the auger feeder in action*
+
 ## Files
 
 ### STL Files (Ready to Print)
